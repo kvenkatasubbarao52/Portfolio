@@ -6,7 +6,7 @@ A personal portfolio website built using React to showcase my profile, skills, a
 
 ## 🌐 Live Website
 
-https://kvenkatasubbarao52.github.io/Portfolio
+http://localhost:3000/Portfolio#/
 
 ---
 
