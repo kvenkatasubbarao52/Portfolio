@@ -50,9 +50,24 @@ https://kvenkatasubbarao52.github.io/Portfolio
 
 ## How to Run
 
-1. Clone the repository  
-2. Navigate to project folder  
+1. Clone the repository
+   
+   ```bash
+git clone https://github.com/kvenkatasubbarao52/Portfolio.git
+
+2.Navigate to the project folder
+
+    ```bash
+cd Portfolio
+
 3. Install dependencies  
 
 ```bash
 npm install
+
+4. Start the application
+
+```bash
+nnpm start
+
+5. Open in browser
